@@ -6,11 +6,6 @@ This map includes the videos from this channel, as well as the ones from the Mat
 
 *Live version available at https://www.frog23.net/TomScottMap/*
 
-> [!NOTE] 
-> **A note regarding Toms appearances on Jet Lag: The Game.**
-> 
-> Tom is a guest on season 13 of [Jet Lag: The Game](https://www.youtube.com/c/jetlagthegame) which starts airing on 5. March 2025 on Nebula and 12. March on Youtube. Locations that were relevant to the game play are eligible to be put on the map, however due to the sequential nature of the episodes and the risk of spoilers, any updates to the map will only be done **2 weeks after the finale was released on Youtube**. Pull requests and issues for new locations can be created earlier, but need to be named beginning with [SPOILER]. A temporary instance of this map under https://www.frog23.net/TomScottMap/spoiler/ shows the map with coordinates of locations, as the videos are released on Youtube (plus the delay for manual curation, so no expectation of completeness). 
-
 ## Contribute
 To contribute (i.e. add coordinates to videos), clone this repository, edit data.json and create a pull request. You can take a look at the [Review Interface](http://www.frog23.net/TomScottMap/review.html) to see which videos aren't geo-referenced yet.
 
